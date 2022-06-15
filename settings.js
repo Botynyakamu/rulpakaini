@@ -20,7 +20,7 @@ global.available = true //status online (online)
 // Other
 global.botname = "*⳹ ❋ཻུ۪۪⸙Zifabotz-MD2⳹ ❋ཻུ۪۪*" //namabot kalian
 global.zifa = "*⳹ ❋ཻུ۪۪⸙Zifabotz-MD2⳹ ❋ཻུ۪۪*" //kontol kalian
-global.ownername= "*⳹ ❋ཻུ۪۪⸙Zifabotz-MD2⳹ ❋ཻུ۪۪*" //nama kalian
+global.ownername= "*Zifabotz_offc1*" //nama kalian
 global.myweb ="https://instagram.com/zalfapontianak" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCSScI6NnXE0dQ1HCnPUUSKQ" //bebas asal jan hapus
 global.github = "https/github.com/Botynyakamu/" //bebas
