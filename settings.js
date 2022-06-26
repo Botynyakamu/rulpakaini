@@ -18,16 +18,16 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "*⳹ ❋ཻུ۪۪⸙Zifabotz-MD3⳹ ❋ཻུ۪۪*" //namabot kalian
-global.zifa = "*⳹ ❋ཻུ۪۪⸙Zifabotz-MD3⳹ ❋ཻུ۪۪*" //kontol kalian
-global.ownername= "**⳹ ❋ཻུ۪۪⸙Zifabotz-MD3⳹ ❋ཻུ۪۪**" //nama kalian
+global.botname = "*⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪*" //namabot kalian
+global.zifa = "*⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪*" //kontol kalian
+global.ownername= "**⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪**" //nama kalian
 global.myweb ="https://instagram.com/zalfapontianak" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCSScI6NnXE0dQ1HCnPUUSKQ" //bebas asal jan hapus
 global.github = "https/github.com/Botynyakamu/" //bebas
 global.email = "anidaanida59@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285828764046" // nomor wa kalian
-global.ownernomerr = "+6285828764046" //nmr wa kalian
+global.ownernomer = "6285828377610" // nomor wa kalian
+global.ownernomerr = "+6285828377610" //nmr wa kalian
 global.thumbnail = "./image/rozi.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/zifa.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/f19193f43448cbbeb5e7d.jpg" // maks size 30kb, agar welcome image nya tdk delay
