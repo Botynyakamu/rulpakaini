@@ -31,8 +31,8 @@ global.ownernomerr = "+6285828377610" //nmr wa kalian
 global.thumbnail = "./image/rozi.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/zifa.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/f19193f43448cbbeb5e7d.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285828764046","6285828764046","6285828764046"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'Zifabotz-MD2' //sticker wm ubah
+global.owner = ["6285828377610","6285828377610","6285828377610"] //ganti agar fitur owner bisa di gunakan
+global.packname = 'Zifabotz-MD' //sticker wm ubah
 global.author = 'Di Buat Oleh rozi' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
